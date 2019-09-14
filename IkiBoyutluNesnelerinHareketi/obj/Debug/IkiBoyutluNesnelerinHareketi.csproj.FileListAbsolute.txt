@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\bin\Debug\IkiBoyutluNesnelerinHareketi.exe.config
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\bin\Debug\IkiBoyutluNesnelerinHareketi.exe
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\bin\Debug\IkiBoyutluNesnelerinHareketi.pdb
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.Form1.resources
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.Properties.Resources.resources
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.exe
+C:\Users\user\source\repos\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.pdb
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\bin\Debug\IkiBoyutluNesnelerinHareketi.exe.config
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\bin\Debug\IkiBoyutluNesnelerinHareketi.exe
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\bin\Debug\IkiBoyutluNesnelerinHareketi.pdb
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.csprojAssemblyReference.cache
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.Form1.resources
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.Properties.Resources.resources
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.csproj.GenerateResource.cache
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.exe
+C:\Users\YAZICI\source\repos\Rar Dosyaları\IkiBoyutluNesnelerinHareketi\IkiBoyutluNesnelerinHareketi\obj\Debug\IkiBoyutluNesnelerinHareketi.pdb
